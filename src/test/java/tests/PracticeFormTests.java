@@ -20,3 +20,4 @@ public class PracticeFormTests extends ApplicationManager {
         new HomePage(getDriver()).clickBtnForms().clickBtnPracticeForm().fillStudentsForm(student);
     }
 }
+// for repeat
